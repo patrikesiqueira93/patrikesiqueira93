@@ -1,4 +1,4 @@
-# Olá, eu sou o Patrik! 👋
+# Hello World! Transformando dados em decisões (e código em soluções) 👋
 
 ## 🚀 Sobre mim
 Engenheiro de Computação em formação e profissional focado em **Análise de Dados, Engenharia de Dados e Business Intelligence**.
